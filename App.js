@@ -13,7 +13,7 @@ const Stack = createStackNavigator();
 function App() {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="Home" screenOptions={{
+      <Stack.Navigator initialRouteName="DailyPic" screenOptions={{
         headerShown: false
       }}>
         <Stack.Screen name="Home" component={HomeScreen} />

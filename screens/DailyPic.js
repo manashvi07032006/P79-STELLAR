@@ -87,6 +87,11 @@ export default class DailyPicScreen extends Component {
                     height: 300,
                     borderRadius: 10,
                   }}></Image>
+                  <span><center>
+                    <Text style={{fontSize:18}}>💥💥 </Text>
+                    <Text style={{fontSize:18, fontWeight:'bold',color:'red'}}> Click the image to take it's full view</Text>
+                    <Text style={{fontSize:18}}>  💥💥 </Text>
+                    </center></span>
               </TouchableOpacity>
               <View style={{ padding: 20 }}>
                 <Text style={styles.titleText}>{this.state.apod.title}</Text>
