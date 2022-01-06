@@ -1,5 +1,7 @@
 #STELLAR STAGE 4
+
 #VIEW THE CONSTELLATIONS AT DIFFERENT LONGITUDE AND LATITUDE (Star Map)
+
 #VIEW AN AMAZING PICTURE (Daily Pics)
 
 To run the project you can follow the following steps: 
